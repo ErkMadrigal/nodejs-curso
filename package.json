@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "curso de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "strat": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErkThay/nodejs-curso.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso"
+  ],
+  "author": "Erk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErkThay/nodejs-curso/issues"
+  },
+  "homepage": "https://github.com/ErkThay/nodejs-curso#readme"
+}
